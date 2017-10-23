@@ -2,7 +2,7 @@
 
 return [
 	'host' => 'localhost',
-	'dbname' => 'rozenn',
-	'user' => 'tchappui',
-	'passwd' => 'ellea.mujigka'
+	'dbname' => 'xxxxx',
+	'user' => 'xxxxxx',
+	'passwd' => 'xxxxxxx'
 ];
